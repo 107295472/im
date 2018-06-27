@@ -1,0 +1,14 @@
+{
+  "server": {
+    "ip": "127.0.0.1",
+    "chatPort": "11444",
+    "isHttps": "0",
+    "commonPort":"11443"
+  },
+  "log": {
+    "logPath":"log/"
+  },
+  "certificate": {
+    "crtPath":"certificate/"
+  }
+}
